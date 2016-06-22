@@ -1,0 +1,10 @@
+{
+	"name": "RecycleRatio080",
+	"version": "0.12.30",
+	"title": "80% Recycling Return",
+	"author": "DRY411S",
+	"homepage": "https://github.com/DRY411S/RecycleRatios",
+	"contact": "https://forums.factorio.com/memberlist.php?mode=viewprofile&u=15698",
+	"description": "Sets the amount recovered from Recycling Machines to 80% of the original recipe ingredients",
+	"dependencies": ["base >= 0.12.35" ,"ZRecycling >= 0.12.33"]
+}
